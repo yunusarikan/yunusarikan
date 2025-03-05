@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yunus</h1>
-<h3 align="center">College Student at ATU|Junior Software Developer|</h3>
+<h3 align="center">Junior Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunusarikan&label=Profile%20views&color=0e75b6&style=flat" alt="yunusarikan" /> </p>
 
